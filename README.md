@@ -26,5 +26,5 @@ Collect coins and power-ups while avoiding obstacles. See how far you can run!
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://medium.com/digitalcrafts/ways-to-up-your-game-with-a-readme-md-on-github-35eae99ee289) file for details.
 
-## Screenshots
+## Game Play
 https://drive.google.com/drive/u/0/folders/1SXMD0P3EczM8qINmWy5I3NjpyBvgEFZ9
